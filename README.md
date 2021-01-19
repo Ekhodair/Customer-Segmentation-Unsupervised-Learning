@@ -37,7 +37,7 @@ We will use K-means algorithm to perfrom customer clustering as being a fast and
        
 accordingly, we can exclude all numbers of clusters other than 2 and 3. however, we can see that 3 clusters achieve less fluctuation in thickness of silhouette plots, so we      choose 3 to be our number of clusters to achieve the maximum performance.
 ## 3.3 Principal Component Analysis
-we conduct PCA to integrating a multi-dimensional space (columns) into 2 dimensions to easily visualize our clusters on a 2-D graph.
+we conduct PCA to integrate a multi-dimensional space (columns) into 2 dimensions to easily visualize our clusters on a 2-D graph.
  ![](figures/clusters.JPG)
  ***
 # 4. Analysis 
