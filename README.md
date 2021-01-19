@@ -46,13 +46,16 @@ we conduct PCA to integrate a multi-dimensional space (columns) into 2 dimension
  After performing customer segmentation exploiting RFM marketing analysis tool, we now have a more cohesive picture of our customer base, to conclude our clustering analysis, we can observe 3 distinct groups where our customers fit in as follows:
 
 - group 1 are our long-standing customers, those who come last in terms of recency, Frequency or even Monetary Value, as we can see they made less orders with a low monetary value a long time ago.
-Strategy: we can design more specifically targeted communication that help convert them into more loyal, higher RFM value customers.
+
+> Strategy: we can design more specifically targeted communication that help convert them into more loyal, higher RFM value customers.
 
 - group 2 are our loyal customers, they come first in terms of Frequency with large-value orders, However, they are the second most recent customers who made purchases, WE CAN'T LOSE THEM.
-Strategy: a more personalized offers can be promoted using product recommendation based on their past purchases in order to increase engagement and ensure higher customer retention rate.
+
+> Strategy: a more personalized offers can be promoted using product recommendation based on their past purchases in order to increase engagement and ensure higher customer retention rate.
 
 - group 3 are our new customer base, they are the most recent customers who made purchases, slightly higher in monetary value than group 1, However less frequent than group 2, which makes perfect sense they are newly introduced to our product.
-Strategy: triggered welcome emails can be used to ensure engagement, establishing personal connection, encourage them to make more purchases with introductory offers.
+
+> Strategy: triggered welcome emails can be used to ensure engagement, establishing personal connection, encourage them to make more purchases with introductory offers.
 
 # 5. Conclusion
 In this Project, we applied Machine Learning to a real-world business case where it can provide a more cohesive picture into our customer base, using K-means algorithm along with meeting its assumptions, we have segemnted our customers into 3 clusters which Marketing department can utilize to ensure business growth, establishing better strategies and achieve higher retention rate.
