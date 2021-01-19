@@ -31,7 +31,7 @@ We will use K-means algorithm to perfrom customer clustering as being a fast and
          ![](figures/silhouette.JPG)
          ![](figures/sil2.JPG)
         silhouette analysis is based on two main principles:
-- similariy in thinkness of silhouette plots which represent each cluster
+- similariy in thickness of silhouette plots which represent each cluster
 
 - presence of negative values, meaning that b(i) is higher than a(i)
        
